@@ -3,7 +3,7 @@
 | Информатика и программирование                                          | [info-labs](https://github.com/kladezh/info-labs)     | 1, 2, 3, 4 |
 | Операционные системы                                                    | [os-labs](https://github.com/kladezh/os-labs)         | 3          |
 | Технологии программирования в Интернет                                  | [web-labs](https://github.com/kladezh/web-labs)       | 3, 4       |
-| Структуры и алгоритмы компьютерной обработки данных                     | [algo-labs](https://github.com/kladezh/alog-labs)     | 4          |
+| Структуры и алгоритмы компьютерной обработки данных                     | [algo-labs](https://github.com/kladezh/algo-labs)     | 4          |
 | Компьютерная графика                                                    | [gfx-labs](https://github.com/kladezh/gfx-labs)       | 5, 6       |
 | Системы искусственного интеллекта                                       | [ai-labs](https://github.com/kladezh/ai-labs)         | 5, 6       |
 | Теория вычислительных процессов и структур                              | [proc-labs](https://github.com/kladezh/proc-labs)     | 6          |
