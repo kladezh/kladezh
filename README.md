@@ -7,9 +7,10 @@
 | Компьютерная графика                                                    | [gfx-labs](https://github.com/kladezh/gfx-labs)       | 5, 6       |
 | Системы искусственного интеллекта                                       | [ai-labs](https://github.com/kladezh/ai-labs)         | 5, 6       |
 | Теория вычислительных процессов и структур                              | [proc-labs](https://github.com/kladezh/proc-labs)     | 6          |
-| Параллельное программирование                                           | [paral-labs](https://github.com/kladezh/paral-labs)       | 6          |
-| Технология программирования приложений баз данных для промышленной СУБД | [db-labs](https://github.com/kladezh/db-labs)         | 7          |
-| Программирование трехмерной графики                                     | [3d-labs](https://github.com/kladezh/3d-labs) | 7          |
+| Параллельное программирование                                           | [paral-labs](https://github.com/kladezh/paral-labs)   | 6          |
+| Технология программирования приложений баз данных для промышленной СУБД | [db-labs](https://github.com/kladezh/db-labs)         | 7, 8       |
+| Программирование трехмерной графики                                     | [3d-labs](https://github.com/kladezh/3d-labs)         | 7          |
 | Объектно-ориентированное программирование и моделирование               | [1c-labs](https://github.com/kladezh/1c-labs)         | 7          |
 | Автоматизированные методы обработки текстовой информации                | [perl-labs](https://github.com/kladezh/perl-labs)     | 7          |
 | Администрирование информационных систем                                 | [sys-labs](https://github.com/kladezh/sys-labs)       | 7          |
+| Функциональное и рекурсивно-логическое программирование                 | [logic-labs](https://github.com/kladezh/logic-labs)   | 8          | 
